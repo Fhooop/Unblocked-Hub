@@ -1,2 +1,2 @@
-# Unblocked-Hub
+# Unblocked
 Unblocked Game Zone
