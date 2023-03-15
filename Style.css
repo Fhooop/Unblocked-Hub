@@ -3,7 +3,7 @@
 .main-head
     {
         
-        background: linear-gradient(#cf7c00, #fe9000);
+        background: linear-gradient(#cf7c00, #33B8FF);
 
         color: black;
         align-items: center;
@@ -31,7 +31,7 @@ align-items: center;}
 li{font-size: 30px;}
 h1{font-size: 35px;}
 .Title
-{color: #fe9000;
+{color: #33B8FF;
 padding: 2rem;}
 .Icone
 {width: 250px; height: 250px;
@@ -46,6 +46,6 @@ padding: 2rem;}
 button
 {    -webkit-border-radius: 25px;
     -moz-border-radius: 10px; 
-    box-shadow: 8px 8px 8px rgba(227, 68, 0, 0);
+    box-shadow: 8px 8px 8px 33B8FF;
     color: #fe9000;
-    background-color: rgb(58, 58, 58);}
+    background-color: 33B8FF;}
